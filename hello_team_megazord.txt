@@ -1,2 +1,4 @@
 Hello world!
 Woo, Bitmaker!
+
+Amazing!
